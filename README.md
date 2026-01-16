@@ -11,7 +11,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Arsenal
 
 <div align="center">
 
@@ -29,29 +29,23 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Activity & Intelligence
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=v-k-dev&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=v-k-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&count_private=true)
 
 <br>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=v-k-dev&theme=radical&hide_border=true&background=0D1117)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=v-k-dev&theme=tokyonight&hide_border=true&background=00000000)
+
+<br>
+
+<a href="https://wakatime.com/@v-k-dev">
+  <img src="https://wakatime.com/badge/user/v-k-dev.svg" alt="Coding Time">
+</a>
 
 </div>
-
----
-
-## 🖥️ Workstation (CachyOS)
-
-    OS:     CachyOS (Arch Linux) 🚀
-    Kernel: Linux-CachyOS
-    DE/WM:  KDE Plasma 6
-    Shell:  Zsh (Powerlevel10k)
-    Term:   Alacritty
-    Editor: Visual Studio Code
-    Theme:  Tokyo Night 🌙
 
 ---
 
@@ -59,30 +53,24 @@
 
 <div align="center">
 
-| **AI & Vision** | **Quantum & Tools** |
-|:---:|:---:|
-| [![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=v-k-dev&repo=v-k-dev&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/v-k-dev/v-k-dev) | [![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=v-k-dev&repo=v-k-dev&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/v-k-dev/v-k-dev) |
+| **Quantum Computing** |
+|:---:|
+| <a href="https://github.com/v-k-dev/Qiskit-Superposition-Demo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=v-k-dev&repo=Qiskit-Superposition-Demo&theme=tokyonight&hide_border=true&bg_color=00000000" /></a> |
+
+| **AI & Computer Vision** |
+|:---:|
+| <a href="https://github.com/v-k-dev/Build-a-Face-Recognition-Machine-With-Jetson-Nano"><img src="https://github-readme-stats.vercel.app/api/pin/?username=v-k-dev&repo=Build-a-Face-Recognition-Machine-With-Jetson-Nano&theme=tokyonight&hide_border=true&bg_color=00000000" /></a> |
+| <a href="https://github.com/v-k-dev/python-image-enhancer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=v-k-dev&repo=python-image-enhancer&theme=tokyonight&hide_border=true&bg_color=00000000" /></a> |
 
 </div>
 
 ---
 
-## 📫 Connect with me
+## 🖥️ Workstation
 
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/v-k-dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vladislav-kafman/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zenowa@pm.me)
-
-</div>
-
----
-
-<div align="center">
-
-### 💬 "Most people think the hard part is having a new idea. The hard part is letting go of the old ideas." – Jim Keller
-
-![Profile Views](https://komarev.com/ghpvc/?username=v-k-dev&color=blueviolet&style=flat-square&label=Profile+Views)
-
-</div>
+```yaml
+OS:     CachyOS (Arch Linux) 🚀
+Kernel: Linux-CachyOS (Bore Scheduler)
+Shell:  Zsh + Powerlevel10k
+Editor: VS Code (Official)
+Theme:  Tokyo Night 🌙
