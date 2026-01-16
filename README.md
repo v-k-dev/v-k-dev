@@ -1,8 +1,6 @@
 # v-k-dev
-
+[![wakatime](https://wakatime.com/badge/user/db01b1dc-87f3-416e-8c6c-2bb683c5809e.svg)](https://wakatime.com/@db01b1dc-87f3-416e-8c6c-2bb683c5809e)
 Python · AI Systems · Computer Vision · Linux
-
-Minimal. Technisch. Kein Ballast.
 
 ---
 
