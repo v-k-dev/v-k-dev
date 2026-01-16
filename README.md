@@ -1,64 +1,69 @@
 # v-k-dev
 
-[![WakaTime](https://wakatime.com/badge/user/db01b1dc-87f3-416e-8c6c-2bb683c5809e.svg)](https://wakatime.com/@v_k_dev)
+Automation & AI Engineer building production systems across industry and software.
 
-Python · AI Systems · Computer Vision · Automation · Linux
-
----
-
-## Core Language
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+Python · Computer Vision · Automation · Linux
 
 ---
 
-## Web & App Development
+## What I Do
 
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
-![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=flat-square&logo=tauri&logoColor=black)
+I design and build systems at the intersection of:
 
----
+- **Artificial Intelligence & Computer Vision**  
+  Applied ML, image processing, and production-ready AI systems.
 
-## Systems & Automation
+- **Automation & Robotics Engineering**  
+  Industrial automation, PLC programming, control systems, and robotics.
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+- **Software & Systems Engineering**  
+  Cross-platform tooling, system-level programming, and Linux-based workflows.
+
+The focus is always on **reliable, real-world systems**, not demos.
 
 ---
 
-## Systems Languages (project-based)
+## Technical Focus
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Nim](https://img.shields.io/badge/Nim-FFE953?style=flat-square&logo=nim&logoColor=black)
-![Zig](https://img.shields.io/badge/Zig-F7A41D?style=flat-square&logo=zig&logoColor=black)
+### Core
+- Python (AI, ML, Computer Vision)
+- Linux-based systems
+
+### AI & ML
+- Computer Vision & Image Processing  
+- Deep Learning (TensorFlow, Keras)
+- MLOps & production ML pipelines
+- Quantum computing foundations (Qiskit, TF Quantum)
+
+### Automation & Industry
+- PLC programming (IEC 61131-3: Structured Text, Ladder Logic)
+- Industrial & collaborative robotics
+- Control systems and regulation technology
+- Industrial networking & system integration
+
+### Software & Tooling
+- JavaScript / Node.js
+- Cross-platform apps (Svelte, Vue, Tauri)
+- Systems languages (Go, Nim, Zig – project-based)
+- Shell scripting (Bash, Zsh, PowerShell)
 
 ---
 
-## AI, ML & Vision
+## Selected Work
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=flat-square&logo=qiskit&logoColor=white)
+### Photochemy AI
+AI-powered photography and image enhancement software  
+Computer Vision · Machine Learning · Image Processing
 
----
-
-## Industrial Automation
-
-- PLC Programming (IEC 61131-3: Structured Text, Ladder Logic)
-- Robotics (Industrial & Collaborative)
-- Control Systems & Regulation Technology
+### Industrial Automation Systems
+Design, commissioning, and maintenance of automation solutions  
+PLC · Robotics · Control Engineering
 
 ---
 
 ## Workstation
 
-- OS: CachyOS (Arch Linux)
+- OS: CachyOS (Arch-based, performance-tuned)
 - Kernel: linux-cachyos
 - Shells: Zsh, Bash, PowerShell
 - Editor: VS Code
@@ -82,4 +87,4 @@ https://www.pexels.com/@dalv/
 ## Contact
 
 - LinkedIn: https://www.linkedin.com/in/vladislav-kafman/
-- Mail: zenowa@pm.me
+- Mail: vtech.office@pm.me
