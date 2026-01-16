@@ -23,22 +23,6 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
----
-
-### 💡 Featured Projects
-
-| Quantum Computing | AI & Computer Vision |
-| :--- | :--- |
-| [**Qiskit Superposition**](https://github.com/v-k-dev/Qiskit-Superposition-Demo) | [**Face Recognition**](https://github.com/v-k-dev/Build-a-Face-Recognition-Machine-With-Jetson-Nano) |
-| *Quantum superposition demo.* | [**Image Enhancer**](https://github.com/v-k-dev/python-image-enhancer) |
-
----
-
-### 📊 Intelligence & Activity
-
-![Stats](https://github-readme-stats.vercel.app/api?username=v-k-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
----
 
 ### 🖥️ Workstation
 
